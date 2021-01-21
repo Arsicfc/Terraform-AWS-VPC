@@ -1,0 +1,1 @@
+subnet_prefix=[{cidr_block="172.16.10.0/24",name = "Terraform_subnet1"},{cidr_block="172.16.20.0/24",name = "Terraform_subnet2"}]
